@@ -1,8 +1,8 @@
-__turbopack_load_page_chunks__("/privacy", [
-  "static/chunks/a7665cb8c87a9176.js",
+__turbopack_load_page_chunks__("/legal", [
+  "static/chunks/6c351b4342b426b8.js",
   "static/chunks/d59b2ff0b8db716d.js",
   "static/chunks/b72f93c40bd9e071.js",
   "static/chunks/ed86aa16915d4415.js",
   "static/chunks/7b5a94c38b3d7abd.js",
-  "static/chunks/turbopack-224f97c54eb24872.js"
+  "static/chunks/turbopack-98f133842062ea35.js"
 ])
