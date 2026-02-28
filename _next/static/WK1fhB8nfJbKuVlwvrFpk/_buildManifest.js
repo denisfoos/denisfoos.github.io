@@ -9,7 +9,7 @@ self.__BUILD_MANIFEST = {
     "static/chunks/3b0af888dea79987.js"
   ],
   "/privacy": [
-    "static/chunks/f1b8c7e87e939c36.js"
+    "static/chunks/95bf84ccd7c1f862.js"
   ],
   "__rewrites": {
     "afterFiles": [],
